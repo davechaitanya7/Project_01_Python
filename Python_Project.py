@@ -37,4 +37,5 @@ def cheak_win(Player,Computer):
 Choices = Get_Choices_Game()   
 Result = cheak_win(Choices["Player"],Choices["Computer"])
 
+print("Final Result : ")
 print(Result)
